@@ -1,4 +1,4 @@
-laravel-pdo-oci-driver
-======================
+Oracle database driver for Laravel
+==================================
 
-Oracle PDO_OCI database driver for the Laravel PHP framework
+This is an Oracle PDO_OCI database driver for the Laravel PHP framework. **It is NOT yet complete and/or functional!**
